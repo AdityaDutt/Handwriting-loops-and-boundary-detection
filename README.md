@@ -14,10 +14,10 @@ Aditya Dutt
 https://pypi.org/project/pyedgeloop/
 Usage: pip install pyedgeloop
 Example:
-      import pyedgeloop as detect
-      import cv2
-      Im = cv2.imread(your_filename)
-      Loops, Edges, Boundary = detect.DetectLoopsEdges(Im)
+      import pyedgeloop as detect<br />
+      import cv2<br />
+      Im = cv2.imread(your_filename)<br />
+      Loops, Edges, Boundary = detect.DetectLoopsEdges(Im)<br />
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
