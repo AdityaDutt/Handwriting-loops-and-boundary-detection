@@ -11,7 +11,7 @@ Loops, Edges, Boundary = detect.DetectLoopsEdges(Im) <br />
 https://pypi.org/project/pyedgeloop/<br />
 Usage: pip install pyedgeloop<br />
 Example:<br />
-      <t>import pyedgeloop as detect<br />
+      &nbsp;&nbsp;&nbsp;import pyedgeloop as detect<br />
       import cv2<br />
       Im = cv2.imread(your_filename)<br />
       Loops, Edges, Boundary = detect.DetectLoopsEdges(Im)<br />
