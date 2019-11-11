@@ -7,17 +7,17 @@ import cv2 <br />
 Im = cv2.imread(your_filename)<br />
 Loops, Edges, Boundary = detect.DetectLoopsEdges(Im) <br />
 
-## Author
-Aditya Dutt
-
 ## Library Link on PyPi
-https://pypi.org/project/pyedgeloop/
-Usage: pip install pyedgeloop
-Example:
+https://pypi.org/project/pyedgeloop/<br />
+Usage: pip install pyedgeloop<br />
+Example:<br />
       import pyedgeloop as detect<br />
       import cv2<br />
       Im = cv2.imread(your_filename)<br />
       Loops, Edges, Boundary = detect.DetectLoopsEdges(Im)<br />
+
+## Author
+Aditya Dutt
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
