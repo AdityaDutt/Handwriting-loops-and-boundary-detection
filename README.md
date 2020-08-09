@@ -1,4 +1,5 @@
 ## Loop-and-Edges-Detector
+Created for use in segemntation of handwritten words.
 Loop-and-Edges-Detector is a fast and simple python library to detect loops, outer boundary and edges in binary images. Also available on PyPi.
 
 ## Usage
